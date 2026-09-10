@@ -96,7 +96,3 @@ npm run pdf:install
 ## License
 
 Private / portfolio use.
-# Fixedyourresume
-# Fixedyourresume
-# Fixedyourresume
-# Fixedyourresume
