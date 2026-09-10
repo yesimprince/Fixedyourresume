@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Resume Shapeshifter",
+  title: "Fixedyourresume",
   description:
     "Truthful JD-to-resume tailoring with match scoring, gap analysis, and side-by-side proof.",
 };

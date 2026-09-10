@@ -7,7 +7,7 @@ export default function Home() {
       <main className="flex w-full max-w-2xl flex-col items-center gap-8 text-center">
         <div className="space-y-3">
           <p className="text-sm font-medium uppercase tracking-wide text-muted-foreground">
-            Resume Shapeshifter
+            Fixedyourresume
           </p>
           <h1 className="text-4xl font-semibold tracking-tight">
             Truthful resume tailoring for every job description

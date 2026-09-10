@@ -1,4 +1,4 @@
-# Resume Shapeshifter
+# Fixedyourresume
 
 JD-to-resume tailoring engine: match scoring, gap analysis, truthful bullet rewrites, and side-by-side PDF proof artifacts.
 
